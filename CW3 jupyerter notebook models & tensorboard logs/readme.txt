@@ -1,0 +1,1 @@
+utils.py is a utility file for accumulating and displaying the training on a graph. Source: https://www.d2l.ai/
